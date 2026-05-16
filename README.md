@@ -65,9 +65,10 @@
 ## ⬜ GITHUB STATS
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahmeerjadoon&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&include_all_commits=true&count_private=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahmeerjadoon&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&include_all_commits=true&count_private=true" />
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahmeerjadoon&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&langs_count=6" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahmeerjadoon&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&langs_count=6" />
+
 </div>
 
 <br/>
