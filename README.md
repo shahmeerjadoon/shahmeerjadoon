@@ -38,46 +38,10 @@
 
 ---
 
+### 🧠 Interests
 ```
-  ┌─────────────────────────────────────────────────────────────┐
-  │                                                             │
-  │   I build AI systems that solve real-world problems.        │
-  │   Currently: urban intelligence, emergency routing,         │
-  │   and making machines reason about space and risk.          │
-  │                                                             │
-  │   FAST NUCES  ◆  AI-2002  ◆  Always shipping.              │
-  │                                                             │
-  └─────────────────────────────────────────────────────────────┘
-```
+▪ Data Structures
 
-<br/>
-
-## ⬜ CURRENT FOCUS
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏙️ CityMind
-> AI-powered urban planning & emergency response simulation
-
-- **CSP** — Constraint-based city layout assignment
-- **Kruskal + Dijkstra** — MST road networks with redundancy
-- **Genetic Algorithm** — Optimal ambulance placement
-- **A\* + Dynamic Replanning** — Live emergency routing
-- **K-Means + Decision Tree** — Crime risk prediction
-
-</td>
-<td width="50%">
-
-### 🧠 Research Interests
-```
-▪ Intelligent Search & Planning
-▪ Multi-Agent Systems
-▪ Graph Algorithms at Scale
-▪ Computer Vision
-▪ Reinforcement Learning
-▪ Urban AI & Smart Cities
 ```
 
 </td>
@@ -135,14 +99,14 @@
 ---
 
 <div align="center">
-
+<!--
 ```
   ╔══════════════════════════════════════════════════════╗
   ║   "The best way to predict the future is to          ║
   ║    build it — one algorithm at a time."              ║
   ╚══════════════════════════════════════════════════════╝
 ```
-
+-->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer&text=&animation=fadeIn" />
 
 </div>
