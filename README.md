@@ -23,7 +23,7 @@
   &nbsp;
   <a href="mailto:shahmeer.jadoon@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23ffffff.svg?style=for-the-badge&logo=gmail&logoColor=black" /></a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=shahmeerjadoon&style=for-the-badge&color=ffffff&label=PROFILE+VIEWS&color=ffffff&labelColor=000000" />
+  <img src="https://komarev.com/ghpvc/?username=shahmeerjadoon&style=for-the-badge&color=ffffff&label=PROFILE+VIEWS&color=ffffff&labelColor=ffffff" />
 </div>
 
 <br/>
