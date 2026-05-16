@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=4000&pause=2000&color=aaaaaa&background=FFFFFF00&center=true&vCenter=true&width=600&lines=FAST+NUCES+%E2%80%A2+Computer+Science+%E2%80%A2+AI+Track;Making+bootstrapped+systems+%E2%80%94+and+sometimes+broken." alt="Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=4000&pause=2000&color=aaaaaa&background=FFFFFF00&center=true&vCenter=true&width=600&lines=FAST+NUCES+%E2%80%A2+Computer+Science+%E2%80%A2+AI+Track;Making+bootstrapped+systems+%E2%80%94+sometimes+broken." alt="Subtitle" />
 </div>
 
 <br/>
