@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&duration=2800&pause=1200&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=700&height=90&lines=Hi%2C+I'm+Shahmeer.;AI+Engineer+%2F+Builder.;I+turn+ideas+into+systems." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&duration=2800&pause=1200&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=700&height=90&lines=Hi%2C+I'm+Shahmeer.;Student++%2F+Day+Dreamer.;I+materialize+musings." alt="Typing SVG" />
 </div>
 
 <div align="center">
