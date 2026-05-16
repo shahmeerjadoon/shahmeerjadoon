@@ -9,21 +9,31 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&duration=2800&pause=1200&color=000000&background=FFFFFF00&center=true&vCenter=true&width=700&height=90&lines=Hi%2C+I'm+Shahmeer.;AI+Engineer+%2F+Builder.;I+turn+ideas+into+systems." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&duration=2800&pause=1200&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=700&height=90&lines=Hi%2C+I'm+Shahmeer.;AI+Engineer+%2F+Builder.;I+turn+ideas+into+systems." alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=4000&pause=2000&color=888888&background=FFFFFF00&center=true&vCenter=true&width=600&lines=FAST+NUCES+%E2%80%A2+Computer+Science+%E2%80%A2+AI+Track;Designing+systems+that+think+%E2%80%94+and+sometimes+plan+cities." alt="Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=4000&pause=2000&color=aaaaaa&background=FFFFFF00&center=true&vCenter=true&width=600&lines=FAST+NUCES+%E2%80%A2+Computer+Science+%E2%80%A2+AI+Track;Designing+systems+that+think+%E2%80%94+and+sometimes+plan+cities." alt="Subtitle" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/shahmeer-jadoon-369528370"><img src="https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shahmeer-jadoon-369528370"><img src="https://img.shields.io/badge/LinkedIn-%23ffffff.svg?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
   &nbsp;
-  <a href="mailto:shahmeer.jadoon@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:shahmeer.jadoon@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23ffffff.svg?style=for-the-badge&logo=gmail&logoColor=black" /></a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=shahmeerjadoon&style=for-the-badge&color=000000&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=shahmeerjadoon&style=for-the-badge&color=ffffff&label=PROFILE+VIEWS&color=ffffff&labelColor=000000" />
+</div>
+
+<br/>
+
+## ⬜ NOW PLAYING
+
+<div align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31oly3qgf6iyiurybg2gzcxjd4tu&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31oly3qgf6iyiurybg2gzcxjd4tu&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=53b14f&bar_color_cover=false" />
+  </a>
 </div>
 
 ---
@@ -42,7 +52,7 @@
 
 <br/>
 
-## ⬛ CURRENT FOCUS
+## ⬜ CURRENT FOCUS
 
 <table>
 <tr>
@@ -76,60 +86,50 @@
 
 ---
 
-## ⬛ TECH STACK
+## ⬜ TECH STACK
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%23ffffff.svg?style=for-the-badge&logo=python&logoColor=black)
 &nbsp;
-![C++](https://img.shields.io/badge/C++-%23000000.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%23ffffff.svg?style=for-the-badge&logo=cplusplus&logoColor=black)
 
 </div>
 
 ---
 
-## ⬛ GITHUB STATS
+## ⬜ GITHUB STATS
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahmeerjadoon&show_icons=true&theme=graywhite&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=000000&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahmeerjadoon&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&include_all_commits=true&count_private=true" />
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahmeerjadoon&layout=compact&theme=graywhite&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahmeerjadoon&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&langs_count=6" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=shahmeerjadoon&theme=default&hide_border=true&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=333333&background=FFFFFF&currStreakNum=000000&dates=666666&sideNums=000000" />
+  <img src="https://streak-stats.demolab.com?user=shahmeerjadoon&theme=transparent&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&currStreakNum=ffffff&dates=aaaaaa&sideNums=ffffff&stroke=00000000" />
 </div>
 
 ---
 
-## ⬛ CONTRIBUTION GRAPH
+## ⬜ CONTRIBUTION GRAPH
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahmeerjadoon&theme=github&hide_border=true&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&area_color=cccccc" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahmeerjadoon&theme=github-compact&hide_border=true&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=333333" />
 </div>
 
 ---
 
-## ⬛ CONTRIBUTION SNAKE
+## ⬜ CONTRIBUTION SNAKE
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shahmeerjadoon/shahmeerjadoon/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shahmeerjadoon/shahmeerjadoon/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shahmeerjadoon/shahmeerjadoon/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shahmeerjadoon/shahmeerjadoon/output/github-contribution-grid-snake-dark.svg" />
   </picture>
-</div>
-
----
-
-## ⬛ NOW PLAYING
-
-<div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31oly3qgf6iyiurybg2gzcxjd4tu&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31oly3qgf6iyiurybg2gzcxjd4tu&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=ffffff&bar_color_cover=false&mode=dark" />
-  </a>
 </div>
 
 ---
