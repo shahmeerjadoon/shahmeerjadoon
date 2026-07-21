@@ -28,7 +28,7 @@
 
 <br/>
 
-## ⬜ NOW PLAYING
+## NOW PLAYING
 
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31oly3qgf6iyiurybg2gzcxjd4tu&redirect=true">
@@ -38,9 +38,11 @@
 
 ---
 
-### 🧠 Interests
+### Interests
 ```
 ▪ Data Structures
+▪ Web Development
+▪ Algorithms
 
 ```
 
@@ -50,19 +52,21 @@
 
 ---
 
-## ⬜ TECH STACK
+## TECH STACK
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-%23ffffff.svg?style=for-the-badge&logo=python&logoColor=black)
 &nbsp;
 ![C++](https://img.shields.io/badge/C++-%23ffffff.svg?style=for-the-badge&logo=cplusplus&logoColor=black)
+&nbsp;
+![Git](https://img.shields.io/badge/Git-%23ffffff.svg?style=for-the-badge&logo=git&logoColor=black)
 
 </div>
 
 ---
 
-## ⬜ GITHUB STATS
+## GITHUB STATS
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahmeerjadoon&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&include_all_commits=true&count_private=true" />
@@ -79,7 +83,7 @@
 
 ---
 
-## ⬜ CONTRIBUTION GRAPH
+## CONTRIBUTION GRAPH
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahmeerjadoon&theme=github-compact&hide_border=true&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=333333" />
@@ -87,7 +91,7 @@
 
 ---
 
-## ⬜ CONTRIBUTION SNAKE
+## CONTRIBUTION SNAKE
 
 <div align="center">
   <picture>
